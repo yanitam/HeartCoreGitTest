@@ -3,6 +3,5 @@ package testpakcage;
 public class test {
 	// テスト用コミット
 
-	// リベースのテスト■■■☆
-
+	// リベースのテスト■■■☆☆☆テストテスト
 }
